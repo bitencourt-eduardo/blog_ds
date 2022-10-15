@@ -38,8 +38,8 @@ baseurl: "/blog_ds" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
-  social_links: https://www.linkedin.com/in/bitencourt-eduardo/
-    twitter: 
+  social_links: 
+    twitter: https://www.linkedin.com/in/bitencourt-eduardo/
     github: https://github.com/bitencourt-eduardo
 
 # Set this to true to get LaTeX math equation support
